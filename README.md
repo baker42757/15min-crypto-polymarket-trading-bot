@@ -145,6 +145,6 @@ See [LICENSE](LICENSE) in the repository.
 ## Contact
 
 - **GitHub:** [0xbulli/15min-crypto-polymarket-trading-bot](https://github.com/0xbulli/15min-crypto-polymarket-trading-bot)  
-- **Telegram:** [@gabagool222](https://t.me/gabagool222)
+- **Telegram:** [@](https://t.me/)
 
 For questions, feature ideas, or reporting issues, open a GitHub issue or reach out on Telegram.
