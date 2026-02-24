@@ -5,6 +5,12 @@ Automated strategy bot for [Polymarket](https://polymarket.com) binary markets (
 **Repository:** [https://github.com/baker42757/15min-crypto-polymarket-trading-bot](https://github.com/baker42757/15min-crypto-polymarket-trading-bot)  
 **Contact (Telegram):** [@baker1119](https://t.me/baker1119)
 
+
+https://github.com/user-attachments/assets/a500456b-c2ba-44b5-af28-7acee04f98d4
+
+
+<img width="1916" height="645" alt="Screenshot_3" src="https://github.com/user-attachments/assets/1a552bdf-cb4e-404c-a6f5-7db1af0fe975" />
+
 ---![photo_2026-02-24_12-09-31](https://github.com/user-attachments/assets/ea25f0ba-5072-445a-944a-93e2e5d52686)
 ![photo_2026-02-24_12-09-26](https://github.com/user-attachments/assets/79bb54e8-3548-4304-a9e7-828b7330fcd5)
 
