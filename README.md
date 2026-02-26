@@ -6,7 +6,6 @@ Automated strategy bot for [Polymarket](https://polymarket.com) binary markets (
 **Contact (Telegram):** [@baker1119](https://t.me/baker1119)
 
 
-https://github.com/user-attachments/assets/ee639488-b756-4695-b3ad-a20f517e0ee3
 
 
 
